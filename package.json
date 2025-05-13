@@ -1,0 +1,14 @@
+{
+  "name": "unicloud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "fs-extra": "^11.1.1"
+  }
+}
